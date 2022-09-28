@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/tech.ico</file>
+        <file>images/save.png</file>
+        <file>images/exit.png</file>
+        <file>images/rightarrow.png</file>
+        <file>images/stop.png</file>
+        <file>images/hardware-01.png</file>
+        <file>images/hardware-02.png</file>
+        <file>images/hardware-03.png</file>
+        <file>images/btnarrow.png</file>
+        <file>images/global-01.png</file>
+        <file>images/global-02.png</file>
+        <file>images/global-03.png</file>
+        <file>images/global-04.png</file>
+        <file>images/global-05.png</file>
+        <file>images/global-06.png</file>
+        <file>images/global-07.png</file>
+        <file>images/others-01.png</file>
+        <file>images/others-02.png</file>
+        <file>images/advance-01.png</file>
+        <file>images/advance-02.png</file>
+        <file>images/advance-03.png</file>
+        <file>images/advance-04.png</file>
+        <file>images/tree-header-01.png</file>
+        <file>images/tree-header-02.png</file>
+        <file>images/player01.png</file>
+        <file>images/hardware_info_01.png</file>
+        <file>images/hardware_info_02.png</file>
+        <file>images/hardware_info_03.png</file>
+        <file>images/hardware_info_04.png</file>
+        <file>images/hardware_info_05.png</file>
+        <file>images/hardware_info_06.png</file>
+        <file>images/hardware_info_08.png</file>
+        <file>images/hardware_info_09.png</file>
+    </qresource>
+</RCC>
